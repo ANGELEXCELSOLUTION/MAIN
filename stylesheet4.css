@@ -1,0 +1,59 @@
+body{
+    background: url(Picture1.png);
+}
+a{
+    color: azure;
+    text-decoration: none;
+    margin: 0.5em;
+    font-size: 1.5em;
+    position: relative;
+    left: 50rem;
+    transition-duration: .2s;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:hover{
+    color: aqua;
+    font-size: 1.6rem;
+}
+a:active{
+    color: darkcyan;
+}
+.img{
+    width: 170px;
+    position: absolute;
+    left: 920px;
+    top: 60px;
+}
+h1{
+    color: beige;
+    position: absolute;
+    top: 0.3em;
+    left: .8em;
+    font-size: 5em;
+    font-family: Calibri;
+    text-decoration: none;
+}
+h3{
+    color: beige;
+    position: absolute;
+    top: 7em;
+    left: 23em;
+    font-size: 1.2em;
+    font-family: Calibri;
+    text-decoration: none;
+}
+.graph{
+    width: 13em;
+    position: absolute;
+    top: 19em;
+    left: 7em;
+}
+p{
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.6em;
+    text-indent: 2.1em;
+    position: relative;
+    top: 10em;
+    left: 13em;
+}
