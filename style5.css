@@ -38,4 +38,22 @@ img{
 #q{
     text-decoration: underline;
 }
+@media(max-width:360px){
+    a{
+        position: relative;
+        left: 2em;
+        font-size: 0.9em;
+    }
+    h1{
+        font-size: 1.5em;
+    }
+    p{
+        font-size: 1em;
+    }
+    img{
+        width: 1em;
+        position: relative;
+        bottom: 9.1em;
+    }
+}
 
