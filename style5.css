@@ -38,7 +38,7 @@ img{
 #q{
     text-decoration: underline;
 }
-@media(max-width:360px){
+@media(max-width:400px){
     a{
         position: relative;
         left: 2em;

@@ -57,7 +57,7 @@ h2{
     left: 60em;
     bottom: 30px;
 }
-@media(max-width:360px){
+@media(max-width:400px){
     a{
         position: relative;
         left: 2em;
