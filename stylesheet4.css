@@ -92,3 +92,37 @@ p{
     }
 
 } 
+@media(max-width:500px){
+    h1{
+        font-size: 2em;
+        position: absolute;
+        top: 6em;
+        left: 1.5em;
+    }
+    .img{
+        width: 7em;
+        position: relative;
+        left: 7em;
+        top: 3em;
+    }
+    .graph{
+        display: none;
+    }
+    p{
+        position: relative;
+        left: 1em;
+        top: 5em;
+        padding-right: 1em;
+        }
+    h3{
+            position: absolute;
+            left: 2em;
+            top: 12em;
+        }
+    a{
+        position: relative;
+        left: 2em;
+        font-size: 0.9em;
+    }
+
+} 
